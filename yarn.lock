@@ -1206,7 +1206,7 @@
     unist-util-visit "^4.0.0"
     vfile "^5.0.0"
 
-"@nestjs/cli@^10.0.0":
+"@nestjs/cli@^10.4.5":
   version "10.4.5"
   resolved "https://registry.npmjs.org/@nestjs/cli/-/cli-10.4.5.tgz#d6563b87e8ca1d0f256c19a7847dbcc96c76a88e"
   integrity sha512-FP7Rh13u8aJbHe+zZ7hM0CC4785g9Pw4lz4r2TTgRtf0zTxSWMkJaPEwyjX8SK9oWK2GsYxl+fKpwVZNbmnj9A==
@@ -1231,7 +1231,7 @@
     webpack "5.94.0"
     webpack-node-externals "3.0.0"
 
-"@nestjs/common@^10.0.0", "@nestjs/common@^10.3.8":
+"@nestjs/common@^10.3.8", "@nestjs/common@^10.4.6":
   version "10.4.6"
   resolved "https://registry.npmjs.org/@nestjs/common/-/common-10.4.6.tgz#952e8fd0ceafeffcc4eaf47effd67fb395844ae0"
   integrity sha512-KkezkZvU9poWaNq4L+lNvx+386hpOxPJkfXBBeSMrcqBOx8kVr36TGN2uYkF4Ta4zNu1KbCjmZbc0rhHSg296g==
@@ -1240,7 +1240,7 @@
     iterare "1.2.1"
     tslib "2.7.0"
 
-"@nestjs/core@^10.0.0", "@nestjs/core@^10.3.8":
+"@nestjs/core@^10.3.8", "@nestjs/core@^10.4.6":
   version "10.4.6"
   resolved "https://registry.npmjs.org/@nestjs/core/-/core-10.4.6.tgz#797b381f12bd62d2e425897058fa219da4c3689d"
   integrity sha512-zXVPxCNRfO6gAy0yvEDjUxE/8gfZICJFpsl2lZAUH31bPb6m+tXuhUq2mVCTEltyMYQ+DYtRe+fEYM2v152N1g==
@@ -1252,7 +1252,7 @@
     path-to-regexp "3.3.0"
     tslib "2.7.0"
 
-"@nestjs/platform-express@^10.0.0":
+"@nestjs/platform-express@^10.4.6":
   version "10.4.6"
   resolved "https://registry.npmjs.org/@nestjs/platform-express/-/platform-express-10.4.6.tgz#6c39c522fa66036b4256714fea203fbeb49fc4de"
   integrity sha512-HcyCpAKccAasrLSGRTGWv5BKRs0rwTIFOSsk6laNyqfqvgvYcJQAedarnm4jmaemtmSJ0PFI9PmtEZADd2ahCg==
@@ -1263,7 +1263,7 @@
     multer "1.4.4-lts.1"
     tslib "2.7.0"
 
-"@nestjs/schematics@^10.0.0", "@nestjs/schematics@^10.0.1":
+"@nestjs/schematics@^10.0.1", "@nestjs/schematics@^10.2.2":
   version "10.2.2"
   resolved "https://registry.npmjs.org/@nestjs/schematics/-/schematics-10.2.2.tgz#917a9c1cbaff54003827ec10abb1a83e6f8c5799"
   integrity sha512-D4pJ46E8llCA7WPr3cV6sfRqDlvnTjQWnF1fLyKYD3Ldl+KPtlLyIcxaqlLTB0YR9ItKNKIZTJzUehRxR7UUsQ==
@@ -1281,7 +1281,7 @@
   dependencies:
     path-to-regexp "0.2.5"
 
-"@nestjs/testing@^10.0.0":
+"@nestjs/testing@^10.4.6":
   version "10.4.6"
   resolved "https://registry.npmjs.org/@nestjs/testing/-/testing-10.4.6.tgz#3797a40c0628788e381f299d3c72acac364ca4ef"
   integrity sha512-aiDicKhlGibVGNYuew399H5qZZXaseOBT/BS+ERJxxCmco7ZdAqaujsNjSaSbTK9ojDPf27crLT0C4opjqJe3A==

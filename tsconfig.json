@@ -26,6 +26,6 @@
     "strictPropertyInitialization": false,
     "skipLibCheck": true
   },
-  "include": ["src", "app.env.d.ts"],
+  "include": ["src", "remix.config.js", "remix.env.d.ts"],
   "exclude": ["build", "scripts", "dist", "test", "node_modules"]
 }
