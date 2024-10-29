@@ -5,4 +5,7 @@ module.exports = {
   serverModuleFormat: 'cjs',
   tailwind: true,
   postcss: true,
+  dev: {
+    port: 8002,
+  },
 };

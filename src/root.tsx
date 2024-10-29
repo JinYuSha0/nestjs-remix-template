@@ -1,5 +1,5 @@
 import type { MetaFunction } from '@remix-run/node';
-import { Links, Meta, Outlet, Scripts } from '@remix-run/react';
+import { Links, LiveReload, Meta, Outlet, Scripts } from '@remix-run/react';
 
 export const meta: MetaFunction = () => [
   {
@@ -20,6 +20,7 @@ export default function App() {
         <div id="root">
           <Outlet />
           <Scripts />
+          <LiveReload />
         </div>
       </body>
     </html>
